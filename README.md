@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I'm Camila Quiroz 
+#### IoT and Backend developer 
+Graduated in Computer Engineering and self-taught in electronics and circuits.
 
-<!--
-**CQuirozVidal/CQuirozVidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love IoT projects, especially those related to environmental control. 🌧️☀️
 
-Here are some ideas to get you started:
+The next step in my career is cybersecurity applied to IoT and companies 🔐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: JavaScript / HTML / Python / React.js / Grafana / AWS IoT / Arduino / CCNA Cisco / GitHub
+
+- 🔭 I’m currently working on IoT - Backend 
+- 🌱 I’m currently learning JS - Python 
+- 👯 I’m looking to collaborate on IoT and AWS projects  
+- 🤔 I’m looking for help with  electronics and circuits 
+- 💬 Ask me about collaborative project  
+- 📫 How to reach me: camilaquirozvidal001@gmail.com 
+- ⚡ Fun fact: My mother language is Spanish :) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/CQuirozVidal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/camila-andrea-quiroz-vidal//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/CQuirozVidal)](https://github.com/anuraghazra/github-readme-stats)
+
+
