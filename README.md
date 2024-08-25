@@ -12,7 +12,7 @@ Skills: JavaScript / HTML / Python / React.js / Grafana / AWS IoT / Arduino / CC
 - 👯 I’m looking to collaborate on IoT and AWS projects  
 - 🤔 I’m looking for help with  electronics and circuits 
 - 💬 Ask me about collaborative project  
-- 📫 How to reach me: camilaquirozvidal001@gmail.com 
+- 📫 How to reach me: c.quirozvidal01@gmail.com / camilaquirozvidal001@gmail.com 
 - ⚡ Fun fact: My mother language is Spanish :) 
 
 
