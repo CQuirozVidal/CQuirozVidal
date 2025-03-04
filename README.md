@@ -1,5 +1,5 @@
 ### Hi, I'm Camila Quiroz 
-#### IoT and Backend developer 
+#### IoT and Front developer 
 Graduated in Computer Engineering and self-taught in electronics and circuits.
 
 I love IoT projects, especially those related to environmental control. 🌧️☀️
